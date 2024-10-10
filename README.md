@@ -10,5 +10,5 @@ T-0008-some feature from feature branch
 T-0009-some feature from feature branch
 T-0010-features by other developer
 T-0011-some-feature (updated locally)
-T-0012-some-feature
+T-0012-some-feature (updated locally)
 T-0013-features by other developer (updated locally)
