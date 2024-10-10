@@ -4,7 +4,7 @@ T-0001-feature.
 T-0002-feature.
 T-0003-some feature.
 T-0004-some feature (updated locally)
-T-0005-some (updated by other developer)
+T-0005-some (updated by other developer) (revised by other developer)
 T-0006-some feature from feature branch
 T-0008-some feature (updated locally)
 T-0009-some feature from feature branch
